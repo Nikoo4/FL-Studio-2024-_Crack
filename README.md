@@ -24,7 +24,8 @@ Compatibility Mechanical: 32 Bit (x86) / 64 Bit (x64)
 Latest Version Release Added On: 10th Jun 2024
 Developers: Image-Line FL Studio
 
-[img]https://i.imgur.com/ubRDV7I.png[/img]
+[[img]https://i.imgur.com/ubRDV7I.png[/img]
+](https://github.com/Nikoo4/FL-Studio-2024-_Crack/blob/main/dumo.png)
 
 System Requirements for Image-Line FL Studio 2024
 Operating System: Windows XP/Vista/7/8/8.1/10
